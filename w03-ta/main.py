@@ -1,5 +1,8 @@
+from newlun import *
+
 def main():
     print('Welcome to our collaborative program.')
+    newlun()
 
 
 
